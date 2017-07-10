@@ -1,0 +1,72 @@
+.butt {
+    text-align: center;
+}
+
+#overall {
+    text-align: center;
+    position: relative;
+}
+
+#grid {
+    margin: auto !important;
+    text-align: center !important;
+    padding: auto !important;
+    display: flex;
+    margin-top: 300px;
+
+}
+
+.cell {
+    text-align: center !important;
+    padding: auto !important;
+    margin: auto !important;
+    margin-top: 5em !important;
+}
+
+.card{
+    height: 17em !important;
+    width: 15em !important;
+    text-align: center; 
+    margin: auto !important;
+    margin-top: 30em;
+    padding: 1em !important;
+}
+
+.dialog {
+    width: 20rem !important;
+    height: 20rem !important; 
+    margin: auto !important;
+    text-align: center;
+}
+
+img {
+    width: 7em !important; 
+    height: 7em !important;
+    margin: 0.5em !important; 
+}
+
+#dismissButton {
+    text-align: center !important;
+    margin: auto;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 1em;
+}
+
+p { 
+    margin: 0.1em !important;
+    text-align: center !important;
+}
+
+#dialogTitle {
+    font-size: 1.2em;
+    margin: auto;
+    padding-top: 0.2em;
+}
+
+#diaContent {
+    padding: 0em;
+}
+
+
+
